@@ -1,0 +1,5 @@
+name: Vikki
+version: 3.0
+description: "Discord bot I can't run on my computer"
+main: dashnetwork.vikki.BukkitPlugin
+api-version: 1.15
